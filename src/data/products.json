@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Camiseta Deportiva",
+    "description": "Camiseta de alta calidad para actividades deportivas",
+    "code": "CAM123",
+    "price": 25000,
+    "status": true,
+    "stock": 15,
+    "category": "Ropa Deportiva",
+    "thumbnails": [
+      "imagenfront.webp",
+      "imagenback.webp"
+    ]
+  }
+]
